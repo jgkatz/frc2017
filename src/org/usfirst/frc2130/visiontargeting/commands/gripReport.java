@@ -9,11 +9,11 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2130.visionTargetting.commands;
+package org.usfirst.frc2130.visiontargeting.commands;
 import edu.wpi.first.wpilibj.command.Command; 
 
 import org.opencv.core.MatOfKeyPoint;
-import org.usfirst.frc2130.visionTargetting.Robot;
+import org.usfirst.frc2130.visiontargeting.Robot;
 
 /**
  *

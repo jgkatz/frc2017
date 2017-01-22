@@ -9,11 +9,11 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2130.visionTargetting;
+package org.usfirst.frc2130.visiontargeting;
 
 import java.awt.Robot;
 
-import org.usfirst.frc2130.visionTargetting.commands.*; 
+import org.usfirst.frc2130.visiontargeting.commands.*; 
 
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
