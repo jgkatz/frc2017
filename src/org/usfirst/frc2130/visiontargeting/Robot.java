@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2130.visionTargetting;
+package org.usfirst.frc2130.visiontargeting;
 
 import edu.wpi.cscore.CvSink;     
 import edu.wpi.cscore.CvSource;
@@ -52,8 +52,8 @@ import org.opencv.objdetect.*;
 
 import org.opencv.core.Mat;
 import org.opencv.imgproc.Imgproc;
-import org.usfirst.frc2130.visionTargetting.commands.*;
-import org.usfirst.frc2130.visionTargetting.subsystems.*;
+import org.usfirst.frc2130.visiontargeting.commands.*;
+import org.usfirst.frc2130.visiontargeting.subsystems.*;
 
 import edu.wpi.cscore.CvSink;
 import edu.wpi.cscore.CvSource;

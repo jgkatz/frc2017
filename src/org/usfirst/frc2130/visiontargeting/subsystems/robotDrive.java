@@ -9,12 +9,12 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2130.visionTargetting.subsystems;
+package org.usfirst.frc2130.visiontargeting.subsystems;
 
 import org.opencv.core.MatOfKeyPoint;
-import org.usfirst.frc2130.visionTargetting.Robot;
-import org.usfirst.frc2130.visionTargetting.RobotMap;
-import org.usfirst.frc2130.visionTargetting.commands.*;
+import org.usfirst.frc2130.visiontargeting.Robot;
+import org.usfirst.frc2130.visiontargeting.RobotMap;
+import org.usfirst.frc2130.visiontargeting.commands.*;
 import edu.wpi.first.wpilibj.SpeedController;
 import edu.wpi.first.wpilibj.VictorSP;
 
